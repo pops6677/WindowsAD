@@ -45,7 +45,7 @@
 # Тест 1: Проверка домена
 cmd
 systeminfo | findstr "Domain"
-# Ожидаемый результат: Domain: mycompany.local
+Ожидаемый результат: Domain: mycompany.local
 
 # Тест 2: Проверка сетевого доступа
 cmd
